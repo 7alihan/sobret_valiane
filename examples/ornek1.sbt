@@ -1,5 +1,5 @@
 TEMPO 90
-YAZAR "Sen Gulunce Guller Acar"
+YAZAR "Starsopping"
 
 NOTA MI2 0.5
 NOTA RE2 0.5
